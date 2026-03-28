@@ -1,0 +1,1 @@
+# QNX_complie_qcom
